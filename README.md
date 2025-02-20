@@ -55,13 +55,20 @@ python form_server.py
 ```bash
 http://localhost:5000
 ```
-2. Enter the **search keyword** (e.g., "laptop") and the **number of pages** to scrape.  
+2. Enter the **search keyword** (e.g., "laptop") and the **number of pages** to scrape. 
+![Home](https://github.com/user-attachments/assets/f141ecc3-a39b-42a9-99a4-fc7cb5cc9087)
+
 3. Click the **"Scrape"** button to start the process.  
 4. The scraper will extract product details and save them in a **CSV file**.  
+
+![Product Details](https://github.com/user-attachments/assets/1cf75165-5cff-4b98-ad06-aba2a9dffdab)
 5. Once completed, the page will display:  
 - ✅ A **link to the scraped data**  
 - 📊 **Visualizations of the analysis**  
-- 🏆 A **link to the best-recommended product**  
+- 🏆 A **link to the best-recommended product**
+
+![Result](https://github.com/user-attachments/assets/1d2691d0-567a-4bb3-ad71-232868bd1cfa)
+
 ## 📊 Data Analysis & Visualization  
 
 ### 🔹 Scatter Plot: Rating vs. Reviews  
